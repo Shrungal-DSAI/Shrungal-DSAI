@@ -51,37 +51,35 @@ I often explain AI to my non-tech friends using cat memes 🐱🤖
 
 ---
 
-## 📁 Featured Repositories
+## 📁 Pinned Projects
 
-### 🧠 AI Projects
-```
-📂 AI-Projects/
-├── Customer-Churn-Prediction
-│   📉 XGBoost model to predict user churn & drive retention strategies  
-├── Fraud Detection in Financial Transactions
-│   💳 Detects anomalies using supervised and unsupervised ML  
-├── BCG Data Science Simulation
-│   🧪 Case study analyzing customer behavior for a retail client  
-├── Quantium Data Analytics Simulation
-│   🛍️ Deep dive into customer analytics using transactional data  
-```
+### 🚀 AI & ML Projects  
+🔹 [**Customer Churn Prediction**](https://github.com/Shrungal-DSAI/Customer_Churn_Prediction)  
+📉 Predicts customer churn using **XGBoost & ML models**, helping businesses retain users  
 
-### 💼 Forage Job Simulations
-```
-📂 Forage-Job-Simulations/
-├── Accenture Data Analytics
-│   📊 Identified key content drivers for Social Buzz with strategic insights  
-├── PwC Power BI Simulation
-│   📈 Built dashboards to help a global client visualize their audit KPIs  
-```
+🔹 [**Fraud Detection in Financial Transactions**](https://github.com/Shrungal-DSAI/Fraud-Detection-Financial)  
+💳 Detects anomalies using **supervised & unsupervised** learning models  
+
+🔹 [**BCG Data Science Simulation**](https://github.com/Shrungal-DSAI/BCG-Data-Science-Simulation)  
+📦 Simulation project analyzing retail customer data and strategic segments  
+
+🔹 [**Quantium Data Analytics Simulation**](https://github.com/Shrungal-DSAI/Quantium-Data-Analytics-Simulation)  
+🛒 Customer insights and transaction behavior analysis for a retail chain  
+
+---
+
+### 💼 Forage Job Simulations  
+🔹 [**Accenture Data Analytics**](https://github.com/Shrungal-DSAI/Accenture-Data-Analytics-Project)  
+📊 Performed content trend analysis to help optimize digital marketing strategy  
+
+🔹 [**PwC Power BI Simulation**](https://github.com/Shrungal-DSAI/PowerBI-PwC)  
+📈 Created interactive dashboards to help visualize audit & performance KPIs  
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrungal-DSAI&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrungal-DSAI&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shrungal-DSAI&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=Shrungal-DSAI&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
