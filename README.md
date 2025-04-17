@@ -1,21 +1,44 @@
-- 👋 Hi, I’m @Shrungal-DSAI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Shrungal!  
 
-# Hi there, I'm Shrungal! 👋  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Shrungal's%20Hub!&fontSize=35&fontAlign=50&fontColor=ffffff)
 
 🚀 **Aspiring Data Engineer & AI Applications Enthusiast**  
-💡 Passionate about AI, ML, and scalable data solutions  
-📊 Exploring Data Engineering, MLOps, and AI-powered applications  
-🔍 Always curious—transforming data into insights & impact!  
+💡 Passionate about ML, AI, and scalable data solutions  
+📊 Bridging insights and innovation through data analytics  
+🔍 Constantly exploring new tools and technologies to solve real-world problems  
 
 ---
 
-## 🛠 Tech Stack:
+## 👀 I’m interested in ...
+- Building scalable **Data Engineering pipelines**
+- Applying **Machine Learning** in real-time environments
+- Creating **end-to-end AI-powered applications**
+- Exploring **MLOps**, **cloud technologies**, and **data storytelling**
+
+## 🌱 I’m currently learning ...
+- **Apache Airflow** for orchestrating data workflows  
+- **Snowflake** & **BigQuery** for cloud data warehousing  
+- **LangChain** and **Vector DBs** for building LLM apps  
+- Mastering **German A2** 🇩🇪 (because why not?)
+
+## 💞️ I’m looking to collaborate on ...
+- **Open-source data engineering tools**
+- **AI projects with real-world impact**
+- Job simulations, case studies & hackathons  
+
+## 😄 Pronouns: He/Him  
+## ⚡ Fun fact:
+I often explain AI to my non-tech friends using cat memes 🐱🤖  
+& I love making dashboards almost as much as I love paneer tikka. 🍽️
+
+## 📫 How to reach me:
+📧 [Email](mailto:shrungalkulkarni30@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)  
+📈 [Kaggle](https://www.kaggle.com/shrungal)
+
+---
+
+## 🧠 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-FEAA2D?style=flat&logo=apache-spark&logoColor=white)
@@ -28,37 +51,41 @@
 
 ---
 
+## 📁 Featured Repositories
+
+### 🧠 AI Projects
+```
+📂 AI-Projects/
+├── [Customer Churn Prediction](https://github.com/Shrungal-DSAI/Customer_Churn_Prediction)  
+│   📉 XGBoost model to predict user churn & drive retention strategies  
+├── [Fraud Detection in Financial Transactions](https://github.com/Shrungal-DSAI/Fraud-Detection-Financial)  
+│   💳 Detects anomalies using supervised and unsupervised ML  
+├── [BCG Data Science Simulation](https://github.com/Shrungal-DSAI/BCG-Data-Science-Simulation)  
+│   🧪 Case study analyzing customer behavior for a retail client  
+├── [Quantium Data Analytics Simulation](https://github.com/Shrungal-DSAI/Quantium-Data-Analytics-Simulation)  
+│   🛍️ Deep dive into customer analytics using transactional data  
+```
+
+### 💼 Forage Job Simulations
+```
+📂 Forage-Job-Simulations/
+├── [Accenture Data Analytics](https://github.com/Shrungal-DSAI/Accenture-Data-Analytics-Project)  
+│   📊 Identified key content drivers for Social Buzz with strategic insights  
+├── [PwC Power BI Simulation](https://github.com/Shrungal-DSAI/PowerBI-PwC)  
+│   📈 Built dashboards to help a global client visualize their audit KPIs  
+```
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrungal-DSAI&show_icons=true&theme=tokyonight)
-
-## 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrungal-DSAI&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrungal-DSAI&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Shrungal-DSAI&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 📌 Pinned Projects:
-### 🚀 AI & ML Projects  
-🔹 [**AI-powered Financial Chatbot**](https://github.com/shrungal-ai/financial-chatbot)  
-💬 NLP chatbot that extracts insights from **10-K & 10-Q financial reports**  
-
-🔹 [**Customer Churn Prediction**](https://github.com/shrungal-ai/churn-prediction)  
-📉 Predicts customer churn using **XGBoost & ML models**, helping businesses retain users  
+⭐ **If any of my projects inspired you, feel free to fork, star, or reach out! Let’s build something impactful together.**  
+🎯 Open to internships, research opportunities, and collaborative builds.
 
 ---
-
-### 🛠 Data Engineering Projects  
-🔹 [**Data Pipeline with Apache Spark**](https://github.com/shrungal-ai/spark-pipeline)  
-🔄 End-to-end **ETL pipeline** that cleans, transforms & loads large datasets  
-
-🔹 [**Real-time Data Streaming with Kafka**](https://github.com/shrungal-ai/kafka-streaming)  
-⚡ Processes **real-time data streams** for high-speed analytics  
-
----
-
-## 📫 Connect with Me:
-🔗 [**LinkedIn**](https://www.linkedin.com/in/shrungal-kulkarni-84a3681a1/)  
-📈 [**Kaggle**](https://www.kaggle.com/shrungal)  
-📧 [**Email**](mailto:shrungalkulkarni30@gmail.com)  
-
-⭐ **Star** your favorite repositories if they inspire you! Let's build something amazing together! 🚀
-
