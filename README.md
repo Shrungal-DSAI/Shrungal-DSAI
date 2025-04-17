@@ -29,7 +29,7 @@
 ## 😄 Pronouns: He/Him  
 ## ⚡ Fun fact:
 I often explain AI to my non-tech friends using cat memes 🐱🤖  
-& I love making dashboards almost as much as I love paneer tikka. 🍽️
+& I love making dashboards almost as much as I love paneer tikka. 🍢
 
 ## 📫 How to reach me:
 📧 [Email](mailto:shrungalkulkarni30@gmail.com)  
@@ -56,22 +56,22 @@ I often explain AI to my non-tech friends using cat memes 🐱🤖
 ### 🧠 AI Projects
 ```
 📂 AI-Projects/
-├── [Customer Churn Prediction](https://github.com/Shrungal-DSAI/Customer_Churn_Prediction)  
+├── Customer-Churn-Prediction
 │   📉 XGBoost model to predict user churn & drive retention strategies  
-├── [Fraud Detection in Financial Transactions](https://github.com/Shrungal-DSAI/Fraud-Detection-Financial)  
+├── Fraud Detection in Financial Transactions
 │   💳 Detects anomalies using supervised and unsupervised ML  
-├── [BCG Data Science Simulation](https://github.com/Shrungal-DSAI/BCG-Data-Science-Simulation)  
+├── BCG Data Science Simulation
 │   🧪 Case study analyzing customer behavior for a retail client  
-├── [Quantium Data Analytics Simulation](https://github.com/Shrungal-DSAI/Quantium-Data-Analytics-Simulation)  
+├── Quantium Data Analytics Simulation
 │   🛍️ Deep dive into customer analytics using transactional data  
 ```
 
 ### 💼 Forage Job Simulations
 ```
 📂 Forage-Job-Simulations/
-├── [Accenture Data Analytics](https://github.com/Shrungal-DSAI/Accenture-Data-Analytics-Project)  
+├── Accenture Data Analytics
 │   📊 Identified key content drivers for Social Buzz with strategic insights  
-├── [PwC Power BI Simulation](https://github.com/Shrungal-DSAI/PowerBI-PwC)  
+├── PwC Power BI Simulation
 │   📈 Built dashboards to help a global client visualize their audit KPIs  
 ```
 
@@ -80,7 +80,7 @@ I often explain AI to my non-tech friends using cat memes 🐱🤖
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrungal-DSAI&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrungal-DSAI&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrungal-DSAI&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shrungal-DSAI&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Shrungal-DSAI&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
